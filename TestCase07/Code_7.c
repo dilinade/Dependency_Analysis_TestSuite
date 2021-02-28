@@ -4,10 +4,10 @@
 //Testing timing thresholds 
 //T_L = 3s
 
-// # of global variables - 
+// # of global variables - 0
 //{g1,g2,g3,..}
 
-// # of local variables - 
+// # of local variables - 1
 //{l1,l2,l3,..}
 
 // # of computational units = 1
