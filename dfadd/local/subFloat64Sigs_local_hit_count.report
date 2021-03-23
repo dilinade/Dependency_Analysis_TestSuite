@@ -1,0 +1,42 @@
+
+----------------
+Function & Variable : subFloat64Sigs|aSig
+Total hit count : 8
+subFloat64Sigs|8
+Used functions : subFloat64Sigs|
+
+----------------
+Function & Variable : subFloat64Sigs|zSig
+Total hit count : 0
+Register Variable
+Used functions : subFloat64Sigs
+
+----------------
+Function & Variable : subFloat64Sigs|bSig
+Total hit count : 8
+subFloat64Sigs|8
+Used functions : subFloat64Sigs|
+
+----------------
+Function & Variable : subFloat64Sigs|expDiff
+Total hit count : 3
+subFloat64Sigs|3
+Used functions : subFloat64Sigs|
+
+----------------
+Function & Variable : subFloat64Sigs|zExp
+Total hit count : 0
+Register Variable
+Used functions : subFloat64Sigs
+
+----------------
+Function & Variable : subFloat64Sigs|aExp
+Total hit count : 3
+subFloat64Sigs|3
+Used functions : subFloat64Sigs|
+
+----------------
+Function & Variable : subFloat64Sigs|bExp
+Total hit count : 2
+subFloat64Sigs|2
+Used functions : subFloat64Sigs|

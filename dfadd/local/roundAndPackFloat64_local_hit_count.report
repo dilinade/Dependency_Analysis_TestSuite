@@ -1,0 +1,30 @@
+
+----------------
+Function & Variable : roundAndPackFloat64|isTiny
+Total hit count : 0
+Register Variable
+Used functions : roundAndPackFloat64
+
+----------------
+Function & Variable : roundAndPackFloat64|roundIncrement
+Total hit count : 2
+roundAndPackFloat64|2
+Used functions : roundAndPackFloat64|
+
+----------------
+Function & Variable : roundAndPackFloat64|roundingMode
+Total hit count : 2
+roundAndPackFloat64|2
+Used functions : roundAndPackFloat64|
+
+----------------
+Function & Variable : roundAndPackFloat64|roundNearestEven
+Total hit count : 3
+roundAndPackFloat64|3
+Used functions : roundAndPackFloat64|
+
+----------------
+Function & Variable : roundAndPackFloat64|roundBits
+Total hit count : 3
+roundAndPackFloat64|3
+Used functions : roundAndPackFloat64|

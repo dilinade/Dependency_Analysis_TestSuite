@@ -1,0 +1,88 @@
+
+----------------
+Function & Variable : main|v_r_size
+Total hit count : 2
+main|2
+Used functions : main|
+
+----------------
+Function & Variable : main|mvscale
+Total hit count : 2
+main|2
+Used functions : main|
+
+----------------
+Function & Variable : main|motion_vertical_field_select
+Total hit count : 11
+motion_vectors|3
+main|8
+Used functions : motion_vectors|main|
+
+----------------
+Function & Variable : main|k
+Total hit count : 96
+main|96
+Used functions : main|
+
+----------------
+Function & Variable : main|main_result
+Total hit count : 26
+main|26
+Used functions : main|
+
+----------------
+Function & Variable : main|PMV
+Total hit count : 28
+motion_vector|4
+main|16
+decode_motion_vector|4
+motion_vectors|4
+Used functions : motion_vector|main|decode_motion_vector|motion_vectors|
+
+----------------
+Function & Variable : main|i
+Total hit count : 66
+main|66
+Used functions : main|
+
+----------------
+Function & Variable : main|s
+Total hit count : 2
+main|2
+Used functions : main|
+
+----------------
+Function & Variable : main|j
+Total hit count : 80
+main|80
+Used functions : main|
+
+----------------
+Function & Variable : main|mv_format
+Total hit count : 2
+main|2
+Used functions : main|
+
+----------------
+Function & Variable : main|dmv
+Total hit count : 2
+main|2
+Used functions : main|
+
+----------------
+Function & Variable : main|motion_vector_count
+Total hit count : 2
+main|2
+Used functions : main|
+
+----------------
+Function & Variable : main|h_r_size
+Total hit count : 2
+main|2
+Used functions : main|
+
+----------------
+Function & Variable : main|dmvector
+Total hit count : 2
+main|2
+Used functions : main|

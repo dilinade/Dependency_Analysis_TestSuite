@@ -1,0 +1,24 @@
+
+----------------
+Function & Variable : local_memcpy|m
+Total hit count : 35
+local_memcpy|35
+Used functions : local_memcpy|
+
+----------------
+Function & Variable : local_memcpy|tmp
+Total hit count : 160
+local_memcpy|160
+Used functions : local_memcpy|
+
+----------------
+Function & Variable : local_memcpy|p1
+Total hit count : 49
+local_memcpy|49
+Used functions : local_memcpy|
+
+----------------
+Function & Variable : local_memcpy|p2
+Total hit count : 129
+local_memcpy|129
+Used functions : local_memcpy|

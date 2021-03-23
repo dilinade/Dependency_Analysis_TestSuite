@@ -1,0 +1,42 @@
+
+----------------
+Function & Variable : addFloat64Sigs|expDiff
+Total hit count : 2
+addFloat64Sigs|2
+Used functions : addFloat64Sigs|
+
+----------------
+Function & Variable : addFloat64Sigs|zExp
+Total hit count : 0
+Register Variable
+Used functions : addFloat64Sigs
+
+----------------
+Function & Variable : addFloat64Sigs|aExp
+Total hit count : 3
+addFloat64Sigs|3
+Used functions : addFloat64Sigs|
+
+----------------
+Function & Variable : addFloat64Sigs|aSig
+Total hit count : 8
+addFloat64Sigs|8
+Used functions : addFloat64Sigs|
+
+----------------
+Function & Variable : addFloat64Sigs|zSig
+Total hit count : 0
+Register Variable
+Used functions : addFloat64Sigs
+
+----------------
+Function & Variable : addFloat64Sigs|bSig
+Total hit count : 6
+addFloat64Sigs|6
+Used functions : addFloat64Sigs|
+
+----------------
+Function & Variable : addFloat64Sigs|bExp
+Total hit count : 2
+addFloat64Sigs|2
+Used functions : addFloat64Sigs|

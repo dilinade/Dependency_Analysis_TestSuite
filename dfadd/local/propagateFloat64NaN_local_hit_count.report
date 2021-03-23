@@ -1,0 +1,24 @@
+
+----------------
+Function & Variable : propagateFloat64NaN|bIsNaN
+Total hit count : 2
+propagateFloat64NaN|2
+Used functions : propagateFloat64NaN|
+
+----------------
+Function & Variable : propagateFloat64NaN|aIsSignalingNaN
+Total hit count : 3
+propagateFloat64NaN|3
+Used functions : propagateFloat64NaN|
+
+----------------
+Function & Variable : propagateFloat64NaN|bIsSignalingNaN
+Total hit count : 3
+propagateFloat64NaN|3
+Used functions : propagateFloat64NaN|
+
+----------------
+Function & Variable : propagateFloat64NaN|aIsNaN
+Total hit count : 1
+propagateFloat64NaN|1
+Used functions : propagateFloat64NaN|

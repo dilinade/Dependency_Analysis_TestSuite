@@ -1,0 +1,9 @@
+----------------
+float_rounding_mode
+total|20
+subFloat64Sigs|2
+roundAndPackFloat64|18
+----------------
+float_exception_flags
+total|4
+float_raise|4
